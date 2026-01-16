@@ -184,7 +184,7 @@ const Header = () => {
         </button>
 
         <nav className="nav-links desktop-nav">
-          <a href="#workshop">Workshop</a>
+          <a href="/IEST/#workshop">Workshop</a>
           <a href="#trainers">Trainers</a>
           <a href="#schedule">Schedule</a>
         </nav>
@@ -197,7 +197,7 @@ const Header = () => {
         transition={{ duration: 0.3 }}
       >
         <nav className="nav-links">
-          <a href="#workshop" onClick={() => setIsMobileMenuOpen(false)}>Workshop</a>
+          <a href="/IEST/#workshop" onClick={() => setIsMobileMenuOpen(false)}>Workshop</a>
           <a href="#trainers" onClick={() => setIsMobileMenuOpen(false)}>Trainers</a>
           <a href="#schedule" onClick={() => setIsMobileMenuOpen(false)}>Schedule</a>
         </nav>

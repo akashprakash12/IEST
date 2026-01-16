@@ -140,7 +140,7 @@ const Footer = () => {
         <div className="footer-section">
           <h3>Quick Links</h3>
           <ul className="quick-links">
-            <li><a href="#workshop">Workshop Details</a></li>
+            <li><a href="/IEST/#workshop">Workshop Details</a></li>
             <li><a href="#trainers">Our Trainers</a></li>
             <li><a href="#schedule">Schedule</a></li>
             <li><a href="#registration">Registration</a></li>
